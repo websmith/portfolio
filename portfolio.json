@@ -32,7 +32,8 @@
         "images": [
             {"src": "images/projects/wccctv/image1.jpg", "alt": "", "name":"wccctv1"},
             {"src": "images/projects/wccctv/image2.jpg", "alt": "", "name":"wccctv2"},
-            {"src": "images/projects/wccctv/image3.jpg", "alt": "", "name":"wccctv3"}
+            {"src": "images/projects/wccctv/image3.jpg", "alt": "", "name":"wccctv3"},
+            {"src": "images/projects/wccctv/image4.jpg", "alt": "", "name":"wccctv4"}
         ]
     },
     {
