@@ -1,0 +1,18 @@
+<div class="content" id="list" ng-animate="'animate'">
+    <div class="works-title">
+        <h1>Recent Work</h1>
+        <p>Curated UI, UX, web and mobile goodness...</p>
+    </div>
+
+    <section class="works">
+        <article class="work" ng-repeat="project in projects" ng-animate="'animate'">
+            <a href="#/project/{{projects.indexOf(project)}}">
+                <img ng-src="{{project.thumbnail}}" alt="{{project.name}}" class="thumb">
+                <div class="work-desc">
+                    <h2>{{project.name}}</h2>
+                    <p>{{project.type}}</p>
+                </div>
+            </a>
+        </article>
+    </section>
+</div>

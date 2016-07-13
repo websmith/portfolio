@@ -1,0 +1,25 @@
+<div class="content" id="project" ng-model="projects" ng-animate="'animate'">
+    <article class="project">
+        <img ng-src="{{projects[whichItem].thumbnail}}" alt="{{projects[whichItem].name}}" class="project-main-image">
+        <div class="project-info">
+            <h1>{{projects[whichItem].name}}</h1>
+            <p><strong>Role:</strong> {{projects[whichItem].type}}</p>
+            <p><strong>URL:</strong> <a href="{{projects[whichItem].url}}" target="_blank">{{projects[whichItem].url}}</a></p>
+            <p>{{projects[whichItem].description}}</p>
+
+            <nav class="project-nav">
+                <a href="#/project/{{prevItem}}" class="btn btn-left"><i class="fa fa-chevron-left"></i> Previous</a>
+                <a href="#/project/{{nextItem}}" class="btn btn-right">Next <i class="fa fa-chevron-right"></i></a>
+            </nav>
+        </div>
+    </article>
+    <section class="gallery">
+        <ul class="images">
+            <li ng-repeat="image in projects[whichItem].images" class="gallery-image">
+                <a href="{{image.src}}" data-lightbox="{{image.name}}" data-title="{{image.alt}}">
+                    <img ng-src="{{image.src}}" alt="{{image.alt}}">
+                </a>
+            </li>
+        </ul>
+    </section>
+</div>
