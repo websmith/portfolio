@@ -13,7 +13,7 @@
     },
     {
         "name": "Sego Sign",
-        "description": "",
+        "description": "Currently in beta, I have been working with Sego to develop innovative file-sharing and signature capture software for the auto industry. For this project, I'm utilizing the MEAN stack to ensure a non-blocking networking system for fast and effecient file uploads in an asyncronous server environment.",
         "type": "Web Design UI/UX",
         "url": "http://sign.segosystems.com/",
         "thumbnail": "images/projects/thumbs-assets/sego-thumb.jpg",
@@ -64,9 +64,9 @@
     },
     {
         "name": "Looxid Labs",
-        "description": "http://looxidlabs.com",
+        "description": "Looxid Labs is a Korean-based startup currently developing physical hardware for virtual interfacing. To promote their technology in the US, they commissioned me to build them a 'Silicon Valley' worthy site. Using Wordpress for the CMS, I created a beautiful, but flexible site that they have been able to completely revision throughout the transitions in their product lines.",
         "type": "Web Design & Development",
-        "url": "",
+        "url": "http://looxidlabs.com",
         "thumbnail": "images/projects/thumbs-assets/looxid-thumb.jpg",
         "images": [
             {"src": "images/projects/looxid/image1.jpg", "alt": "", "name":"looxid1"},
