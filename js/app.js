@@ -1,4 +1,4 @@
-var app = angular.module('cgPortfolio', ['ngRoute', 'portfolioControllers']);
+var app = angular.module('ncPortfolio', ['ngRoute', 'portfolioControllers']);
 
 app.config(['$routeProvider', function($routeProvider){
     $routeProvider.when('/', {
