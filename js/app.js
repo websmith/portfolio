@@ -14,13 +14,13 @@ app.config(['$routeProvider', function($routeProvider){
 }]);
 
 portfolioControllers.controller('ListController', ['$scope', '$http', function($scope, $http) {
-    $http.get('portfolio.json').success(function(data) {
+    $http.get('data/portfolio.min.json').success(function(data) {
         $scope.projects = data;
     });
 }]);
 
 portfolioControllers.controller('ProjectController', ['$scope', '$http','$routeParams', function($scope, $http, $routeParams) {
-    $http.get('portfolio.json').success(function(data) {
+    $http.get('data/portfolio.min.json').success(function(data) {
         $scope.projects = data;
         $scope.whichItem = $routeParams.itemId;
 
