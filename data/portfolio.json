@@ -6,9 +6,9 @@
         "url": "http://192.241.157.212/clarity-v2-static/dashboard.html",
         "thumbnail": "images/projects/thumbs-assets/clarity-thumb.jpg",
         "images": [
-            {"src": "images/projects/clarity/image1.jpg", "alt": "Clarity Dashboard", "name":"clarity1"},
-            {"src": "images/projects/clarity/image2.jpg", "alt": "Clarity Login", "name":"clarity2"},
-            {"src": "images/projects/clarity/image3.jpg", "alt": "Clarity Trade History", "name":"clarity3"}
+            {"src": "images/projects/clarity/image1.jpg", "alt": "Clarity Dashboard", "name":"clarity"},
+            {"src": "images/projects/clarity/image2.jpg", "alt": "Clarity Login", "name":"clarity"},
+            {"src": "images/projects/clarity/image3.jpg", "alt": "Clarity Trade History", "name":"clarity"}
         ]
     },
     {
@@ -18,9 +18,9 @@
         "url": "http://sign.segosystems.com/",
         "thumbnail": "images/projects/thumbs-assets/sego-thumb.jpg",
         "images": [
-            {"src": "images/projects/sego/image1.jpg", "alt": "Sego Login", "name":"sego1"},
-            {"src": "images/projects/sego/image2.jpg", "alt": "Sego Dashboard", "name":"sego2"},
-            {"src": "images/projects/sego/image3.jpg", "alt": "Sego Signature", "name":"sego3"}
+            {"src": "images/projects/sego/image1.jpg", "alt": "Sego Login", "name":"sego"},
+            {"src": "images/projects/sego/image2.jpg", "alt": "Sego Dashboard", "name":"sego"},
+            {"src": "images/projects/sego/image3.jpg", "alt": "Sego Signature", "name":"sego"}
         ]
     },
     {
@@ -30,10 +30,10 @@
         "url": "http://wccc.tv",
         "thumbnail": "images/projects/thumbs-assets/wccctv-thumb.jpg",
         "images": [
-            {"src": "images/projects/wccctv/image1.jpg", "alt": "", "name":"wccctv1"},
-            {"src": "images/projects/wccctv/image2.jpg", "alt": "", "name":"wccctv2"},
-            {"src": "images/projects/wccctv/image3.jpg", "alt": "", "name":"wccctv3"},
-            {"src": "images/projects/wccctv/image4.jpg", "alt": "", "name":"wccctv4"}
+            {"src": "images/projects/wccctv/image1.jpg", "alt": "", "name":"wccctv"},
+            {"src": "images/projects/wccctv/image2.jpg", "alt": "", "name":"wccctv"},
+            {"src": "images/projects/wccctv/image3.jpg", "alt": "", "name":"wccctv"},
+            {"src": "images/projects/wccctv/image4.jpg", "alt": "", "name":"wccctv"}
         ]
     },
     {
@@ -43,9 +43,9 @@
         "url": "http://wacoheartoftexas.com",
         "thumbnail": "images/projects/thumbs-assets/wacohot-thumb.jpg",
         "images": [
-            {"src": "images/projects/wacohot/image1.jpg", "alt": "", "name":"wacohot1"},
-            {"src": "images/projects/wacohot/image2.jpg", "alt": "", "name":"wacohot2"},
-            {"src": "images/projects/wacohot/image3.jpg", "alt": "", "name":"wacohot3"}
+            {"src": "images/projects/wacohot/image1.jpg", "alt": "", "name":"wacohot"},
+            {"src": "images/projects/wacohot/image2.jpg", "alt": "", "name":"wacohot"},
+            {"src": "images/projects/wacohot/image3.jpg", "alt": "", "name":"wacohot"}
         ]
     },
     {
@@ -55,11 +55,11 @@
         "url": "http://gosimplecar.com",
         "thumbnail": "images/projects/thumbs-assets/simplecar-thumb.jpg",
         "images": [
-            {"src": "images/projects/simplecar/image1.jpg", "alt": "", "name":"simplecar1"},
-            {"src": "images/projects/simplecar/image2.jpg", "alt": "", "name":"simplecar2"},
-            {"src": "images/projects/simplecar/image3.jpg", "alt": "", "name":"simplecar3"},
-            {"src": "images/projects/simplecar/image4.jpg", "alt": "", "name":"simplecar4"},
-            {"src": "images/projects/simplecar/image5.jpg", "alt": "", "name":"simplecar5"}
+            {"src": "images/projects/simplecar/image1.jpg", "alt": "", "name":"simplecar"},
+            {"src": "images/projects/simplecar/image2.jpg", "alt": "", "name":"simplecar"},
+            {"src": "images/projects/simplecar/image3.jpg", "alt": "", "name":"simplecar"},
+            {"src": "images/projects/simplecar/image4.jpg", "alt": "", "name":"simplecar"},
+            {"src": "images/projects/simplecar/image5.jpg", "alt": "", "name":"simplecar"}
         ]
     },
     {
@@ -69,10 +69,10 @@
         "url": "http://looxidlabs.com",
         "thumbnail": "images/projects/thumbs-assets/looxid-thumb.jpg",
         "images": [
-            {"src": "images/projects/looxid/image1.jpg", "alt": "", "name":"looxid1"},
-            {"src": "images/projects/looxid/image2.jpg", "alt": "", "name":"looxid2"},
-            {"src": "images/projects/looxid/image3.jpg", "alt": "", "name":"looxid3"},
-            {"src": "images/projects/looxid/image4.jpg", "alt": "", "name":"looxid4"}
+            {"src": "images/projects/looxid/image1.jpg", "alt": "", "name":"looxid"},
+            {"src": "images/projects/looxid/image2.jpg", "alt": "", "name":"looxid"},
+            {"src": "images/projects/looxid/image3.jpg", "alt": "", "name":"looxid"},
+            {"src": "images/projects/looxid/image4.jpg", "alt": "", "name":"looxid"}
         ]
     }
 ]
