@@ -1,7 +1,7 @@
 [
     {
         "name": "Clarity Currency",
-        "description": "As CTO of this startup, I am responsible for creation of all digital assets including the complete UI planning and implementation of our financial trading software.",
+        "description": "As CTO of this startup, I was responsible for creation of all digital assets including the complete UI planning and implementation of our financial trading software.",
         "type": "Web Design UI/UX",
         "url": "http://192.241.157.212/clarity-v2-static/dashboard.html",
         "thumbnail": "images/projects/thumbs-assets/clarity-thumb.jpg",
@@ -9,6 +9,19 @@
             {"src": "images/projects/clarity/image1.jpg", "alt": "Clarity Dashboard", "name":"clarity"},
             {"src": "images/projects/clarity/image2.jpg", "alt": "Clarity Login", "name":"clarity"},
             {"src": "images/projects/clarity/image3.jpg", "alt": "Clarity Trade History", "name":"clarity"}
+        ]
+    },
+    {
+        "name": "Apparatus Digital Creative Agency",
+        "description": "As the owner and lead developer at Apparatus, I designed and developed our own personal branding, website, and collateral to help us make a huge splash in the industry as an up-and-coming startup.",
+        "type": "Web Design UI/UX, Web Development, Branding, Collateral",
+        "url": "https://apparatusagency.com",
+        "thumbnail": "images/projects/thumbs-assets/apparatus-thumb.jpg",
+        "images": [
+            {"src": "images/projects/apparatus/apparatus-home.png", "alt": "Apparatus Homepage", "name":"apparatus"},
+            {"src": "images/projects/apparatus/apparatus-home2.png", "alt": "Apparatus Homepage 2", "name":"apparatus"},
+            {"src": "images/projects/apparatus/apparatus-blog.png", "alt": "Apparatus Blog", "name":"apparatus"},
+            {"src": "images/projects/apparatus/apparatus-cards.png", "alt": "Apparatus Business Cards", "name":"apparatus"}
         ]
     },
     {
